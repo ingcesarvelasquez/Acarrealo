@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "512732885842",
+    "firebase_url": "https://acarreos-38daf.firebaseio.com",
+    "project_id": "acarreos-38daf",
+    "storage_bucket": "acarreos-38daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512732885842:android:12d4e1be3cff03a3",
+        "android_client_info": {
+          "package_name": "com.example.n550j.acarreos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512732885842-s9qoaah0kqb9eqjuqr6l9v2pcr0m4phm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.n550j.acarreos",
+            "certificate_hash": "7f9665a6c2d91c5f01b170e749f76a7cc67d4a65"
+          }
+        },
+        {
+          "client_id": "512732885842-vkpqm4ep5c8f8eo4s5h4voj64v8to07n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJfdLaOG3J6VewAgzY_yLzcO14ReafS90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512732885842-vkpqm4ep5c8f8eo4s5h4voj64v8to07n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

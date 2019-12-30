@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Acarreos</string>
+
+    <string name="hint_email">Correo</string>
+    <string name="hint_paswword">pasword</string>
+    <string name="create_count_button">Create Acount</string>
+    <string name="signin_button">Sign in</string>
+
+    <string name="hint_descripcion">Descripcion de carga</string>
+    <string name="hint_direccion_origen">Direccion origen</string>
+    <string name="hint_direccion_destino">Direccion destino</string>
+
+
+  <!-- String para interfaz de crear cuentas -->
+    <string name="hint_nombre_usuario">Nombres</string>
+    <string name="hint_apellido_usuario">Apellidos</string>
+    <string name="hint_celular_usuario">Numero celular</string>
+    <string name="hint_correo_usuario">Correo electrònico</string>
+    <string name="hint_contrasena_usuario">Contraseña</string>
+
+
+
+    <!-- botones -->
+    <string name="calcula_acarreo">Calcular acarreo</string>
+    <string name="Crear_cuenta">Crear cuenta</string>
+    <string name="action_exit">Salir</string>
+
+    <string-array name="programacion">
+        <item>Programar</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>4 hora</item>
+    </string-array>
+
+
+    <string-array name="horario">
+        <item>Elegir hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>4 horas </item>
+    </string-array>
+
+</resources>
